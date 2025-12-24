@@ -13,6 +13,5 @@
 1. KNeighborsClassifier
 2. DecisionTreeClassifier
 3. LogisticRegression
-4. SVC
 
 Лучшей моделью стала модель DecisionTreeClassifier, которая на тестовой выборке продемонстрировала высокое качество классификации с показателем ROC-AUC = 0.84.
